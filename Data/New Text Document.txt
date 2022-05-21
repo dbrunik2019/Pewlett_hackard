@@ -1,0 +1,13 @@
+Departments
+-
+dept_no varchar pk fk - Departments.dept_no
+dept_name varchar
+
+Employees
+-
+emp_no varchar pk
+birth_date
+first_name
+last_name
+gender
+hire_date
